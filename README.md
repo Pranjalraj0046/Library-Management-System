@@ -37,3 +37,8 @@ Library Management System using Java and MySQL
 - Expand Project->Source Packages->mainlibrary->DB.java
 - Change the Authentication Setting
 
+# How Does This Project Work
+- After connecting database with the server
+- Run the project in NetBeans
+- After Successfully run of the project, this page will open
+
